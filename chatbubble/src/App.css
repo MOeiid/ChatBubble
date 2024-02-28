@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+  height: 100vh; 
+}
+
+.chat-bubble {
+  width: 400px; 
+  height: 500px; 
+}
